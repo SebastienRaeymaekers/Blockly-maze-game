@@ -1,0 +1,8 @@
+X:1;
+Y:0;
+Direction: Left;
+Width:2;
+Height:1;
+Grid:
+ag;
+MaxBlocks: 10;
